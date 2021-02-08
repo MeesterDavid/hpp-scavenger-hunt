@@ -30,7 +30,7 @@ Blauwe items zijn mappen, al het andere is een bestand. Als je wilt weten welke 
 
 #### `cd` ####
 
-Voordat we op jacht gaan hebben we nog twee dingen nodig. Om naar een andere map te gaan gebruiken we `cd` (change directory). Met `cd clues` kunnen we de map met aanwijzingen ingaan. Een map terug naar boven gaat met `cd ..` en je kunt altijd terug naar de beginmap van deze scanvenger hunt met `cd ~/hpp-scavenger_hunt`. Als je de map `clues` bent binnengegaan en `ls` typt zie je dat er een hoop clue-mappen zijn. De meeste daarvan zijn afleiders, maar een aantal bevatten daadwerkelijke hints. Gebruik `cd` om naar de map `12345` in `clues` te gaan en type `ls`. In deze map is een bestand aanwezig, genaamde `clue`.
+Voordat we op jacht gaan hebben we nog twee dingen nodig. Om naar een andere map te gaan gebruiken we `cd` (change directory). Met `cd clues` kunnen we de map met aanwijzingen ingaan. Een map terug naar boven gaat met `cd ..` en je kunt altijd terug naar de beginmap van deze scanvenger hunt met `cd ~/hpp-scavenger_hunt`. Als je de map `clues` bent binnengegaan en `ls` typt zie je dat er een hoop clue-mappen zijn. De meeste daarvan zijn afleiders, maar een aantal bevatten daadwerkelijke hints. Gebruik `cd` om naar de map `1234` in `clues` te gaan en type `ls`. In deze map is een bestand aanwezig, genaamde `clue`.
 
 #### `cat` en `less` ####
 
