@@ -9,7 +9,7 @@ from cryptography.fernet import Fernet
 
 START_CLUE = 2
 LAST_CLUE = 14
-CLUE_SPACE = 100000
+CLUE_SPACE = 10000
 FIRST_CLUE = 12345
 
 def zero_pad(clue):
